@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/eocastroo/create-todos-react/static/css/main.1a9f271b.css",
-    "main.js": "/eocastroo/create-todos-react/static/js/main.46c85577.js",
-    "index.html": "/eocastroo/create-todos-react/index.html",
-    "static/media/delete.svg": "/eocastroo/create-todos-react/static/media/delete.9b35f5e8b66c8fbaab3cebf7ba2bc92a.svg",
-    "static/media/check.svg": "/eocastroo/create-todos-react/static/media/check.64d1a05d1b8b3bb3dade5e46c0bef6b0.svg",
-    "main.1a9f271b.css.map": "/eocastroo/create-todos-react/static/css/main.1a9f271b.css.map",
-    "main.46c85577.js.map": "/eocastroo/create-todos-react/static/js/main.46c85577.js.map"
+    "main.css": "/create-todos-react/static/css/main.1a9f271b.css",
+    "main.js": "/create-todos-react/static/js/main.9b40488c.js",
+    "index.html": "/create-todos-react/index.html",
+    "static/media/delete.svg": "/create-todos-react/static/media/delete.9b35f5e8b66c8fbaab3cebf7ba2bc92a.svg",
+    "static/media/check.svg": "/create-todos-react/static/media/check.64d1a05d1b8b3bb3dade5e46c0bef6b0.svg",
+    "main.1a9f271b.css.map": "/create-todos-react/static/css/main.1a9f271b.css.map",
+    "main.9b40488c.js.map": "/create-todos-react/static/js/main.9b40488c.js.map"
   },
   "entrypoints": [
     "static/css/main.1a9f271b.css",
-    "static/js/main.46c85577.js"
+    "static/js/main.9b40488c.js"
   ]
 }
