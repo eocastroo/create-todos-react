@@ -11,3 +11,9 @@ Espero que sea de tu agrado y veas la dedicación y el valor que se merece, para
 
 ****
 ## Getting Started with Create React App
+
+Les dejo el link para validar mi proyecto.
+
+https://eocastroo.github.io/create-todos-react/
+
+
